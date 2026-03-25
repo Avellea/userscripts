@@ -12,6 +12,16 @@
 (function () {
   "use strict";
 
+  // Add any domains you want to disable this script on
+  const excludedSites = [
+    "github.com",
+    // "example.com",
+    // "docs.google.com",
+  ];
+
+  if (excludedSites.some((domain) => location.hostname.includes(domain)))
+    return;
+
   document.addEventListener("keydown", (e) => {
     if (e.key === "Escape") {
       const tag = document.activeElement?.tagName?.toLowerCase();
