@@ -1,11 +1,12 @@
-# Slash to Search
+# slashsearch
 
 A userscript for Tampermonkey or Violentmonkey that lets you press `/` to jump to the search bar on any page, and `Escape` to unfocus it.
 
 ## Installation
 
 1. Install [Tampermonkey](https://www.tampermonkey.net/) or [Violentmonkey](https://violentmonkey.github.io/)
-2. Click **Dashboard → Utilities → Import from file** and select `slash-to-search.user.js`
+2. Click `slashsearch.user.js`
+3. Click **Raw**
 3. Click **Install** when prompted
 
 ## Usage
