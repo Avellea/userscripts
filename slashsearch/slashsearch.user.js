@@ -6,7 +6,7 @@
 // @author       You
 // @match        *://*/*
 // @grant        none
-// @icon         https://i.imgur.com/i2bCI8P.png
+// @icon         https://raw.githubusercontent.com/Avellea/userscripts/refs/heads/main/slashsearch/slashsearch-logo.png
 // ==/UserScript==
 
 (function () {
