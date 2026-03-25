@@ -6,6 +6,8 @@
 // @author       You
 // @match        *://*/*
 // @grant        none
+// @updateURL    https://raw.githubusercontent.com/Avellea/userscripts/refs/heads/main/slashsearch/slashsearch.user.js
+// @downloadURL  https://raw.githubusercontent.com/Avellea/userscripts/refs/heads/main/slashsearch/slashsearch.user.js
 // @icon         https://raw.githubusercontent.com/Avellea/userscripts/refs/heads/main/slashsearch/slashsearch-logo.png
 // ==/UserScript==
 
