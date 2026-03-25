@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Slash to Search
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  Press / to focus the search bar, Escape to unfocus.
 // @author       You
 // @match        *://*/*
